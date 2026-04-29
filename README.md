@@ -6,6 +6,7 @@
 - Guilherme Amorim
 - Michelly Silva
 - Matheus vinicius
+- Arthur Mendes
 
 ## 🧾 Sobre o Projeto
 Este projeto foi desenvolvido em sala de aula com o objetivo de aprender a usar o Git e o GitHub em equipe.
